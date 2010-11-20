@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/sh
 
 echo 'Type sprout- and then hit the tab key to see the new sprout binaries.'
 
